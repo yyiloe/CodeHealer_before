@@ -1,0 +1,1 @@
+This folder stores the model weights after fine-tuning.

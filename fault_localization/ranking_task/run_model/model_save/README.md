@@ -1,0 +1,1 @@
+This folder stores the model weights of the trained suspicious statement ranking component after training.

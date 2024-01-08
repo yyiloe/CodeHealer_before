@@ -1,0 +1,1 @@
+This folder stores the training sets after the 10-fold cross-validation partitioning.
